@@ -42,5 +42,6 @@ This project was the ultimate coding playground, a place where I pushed the limi
 
 Now, go ahead, dive into **Big Bazzar**, and enjoy managing your own store—one line of code at a time!
 
+
 ![combined_image_swapped](https://github.com/user-attachments/assets/efc5d7ae-27f4-441c-ab86-e109f09377d7)
 
